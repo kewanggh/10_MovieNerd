@@ -1,0 +1,15 @@
+body {
+  margin: 10px 10px 10px 10px;
+}
+
+.moviePoster {
+  width: 80px;
+  height: 100px;
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+.moviePoster1 {
+  width: 80%;
+  height: 60%;
+}
